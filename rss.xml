@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Modest Man]]></title>
+        <description><![CDATA[A Modest Man]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 Nov 2015 22:12:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to a Modest Man. This blog will talk about living modestly, in different ways. I thought to start with a sort of a food blog, post here my groceries and during the week post what have I cooked with it. To show that one does not need to spend a lot to eat healthy and varied. And tasty. Let's see how it goes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d43a6f1-4b1c-4191-b0b2-75beae0c8b27.jpg"></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">2863a781-5fb7-4d9e-bc89-d85fc6c7b73a</guid>
+            <pubDate>Sun, 01 Nov 2015 22:12:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
